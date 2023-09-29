@@ -1,1 +1,1 @@
-I am proud to be a student of trios college.
+<p>I am proud to be the student of triOS College.</p>
